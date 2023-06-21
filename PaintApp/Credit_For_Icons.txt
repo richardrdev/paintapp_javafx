@@ -1,0 +1,6 @@
+All icons found in the "/resources/icons/" directory are from the Material Design Icon library, created by Google and freely available for use under the Apache license version 2.0.
+
+More Information on Material Design Icons:  https://material.io/resources/icons/?style=baseline
+
+Apache License:  https://www.apache.org/licenses/LICENSE-2.0.html
+
